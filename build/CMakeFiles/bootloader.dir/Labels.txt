@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/Chelly/Desktop/ESP-IDF-prac/lorawan/build/CMakeFiles/bootloader
+C:/Users/Chelly/Desktop/ESP-IDF-prac/lorawan/build/CMakeFiles/bootloader.rule
+C:/Users/Chelly/Desktop/ESP-IDF-prac/lorawan/build/CMakeFiles/bootloader-complete.rule
+C:/Users/Chelly/Desktop/ESP-IDF-prac/lorawan/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/Chelly/Desktop/ESP-IDF-prac/lorawan/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/Chelly/Desktop/ESP-IDF-prac/lorawan/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/Chelly/Desktop/ESP-IDF-prac/lorawan/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/Chelly/Desktop/ESP-IDF-prac/lorawan/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/Chelly/Desktop/ESP-IDF-prac/lorawan/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/Chelly/Desktop/ESP-IDF-prac/lorawan/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

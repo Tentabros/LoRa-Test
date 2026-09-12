@@ -1,0 +1,17 @@
+dependencies:
+  idf:
+    source:
+      type: idf
+    version: 6.0.1
+  radiolib:
+    dependencies: []
+    source:
+      path: components\radiolib
+      type: local
+    version: 7.7.1
+direct_dependencies:
+- idf
+- jgromes/radiolib
+manifest_hash: 28aef22fbe9429de37c6a4ab2c8dbd7080e4b5747b592546c5f22470515f7108
+target: esp32
+version: 3.0.0
